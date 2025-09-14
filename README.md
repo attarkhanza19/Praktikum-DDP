@@ -1,4 +1,4 @@
-# SISTEM PENGGUNAAN AIR PDAM
+# Mini-Project-1-2509116006-Genap
 Program penggunaan air PDAM
 
 Nama  : Muhammad Attar Khanza Habibillah
