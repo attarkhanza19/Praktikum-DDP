@@ -1,6 +1,13 @@
 # SISTEM PENGGUNAAN AIR PDAM
 Program penggunaan air PDAM
 
+Nama  : Muhammad Attar Khanza Habibillah
+
+NIM   : 2509116006
+
+Prodi : Sistem Informasi (A)
+
+
 # FLOWCHART
 <img width="1031" height="651" alt="Flowchart minpro drawio" src="https://github.com/user-attachments/assets/85aa02ed-ab5a-4467-9d01-20c4921d2835" />
 
